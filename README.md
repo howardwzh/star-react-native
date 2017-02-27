@@ -47,5 +47,5 @@ AppRegistry.registerComponent('LotsOfStyles', () => LotsOfStyles);
 - [Navigator](http://reactnative.cn/docs/0.41/using-navigators.html#content)
 - [布局样式属性](http://reactnative.cn/docs/0.41/layout-props.html#content)
 - [React Native style -- 样式的使用](https://segmentfault.com/a/1190000004031633)
-- app通过props直接传参数
-- TabNavigator
+- [在原生和React Native间通信](http://reactnative.cn/docs/0.41/communication-ios.html#content)
+- [TabNavigator](https://github.com/exponent/react-native-tab-navigator)
