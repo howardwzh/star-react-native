@@ -5,6 +5,11 @@
 
 # 开始旅程
 
+## 环境配置（mac）
+
+1. [（Mac平台）ReactNative Android开发环境搭建小计](https://segmentfault.com/a/1190000004068339)
+2. [react native android开发环境搭建（mac系统）](https://www.jianshu.com/p/cb8bbb499841)
+
 ## 样式
 
 - 使用JavaScript来写样式, 所有的核心组件都接受名为style的属性
