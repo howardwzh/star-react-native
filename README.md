@@ -9,6 +9,26 @@
 
 1. [（Mac平台）ReactNative Android开发环境搭建小计](https://segmentfault.com/a/1190000004068339)
 2. [react native android开发环境搭建（mac系统）](https://www.jianshu.com/p/cb8bbb499841)
+3. [Mac环境下安装Genymotion](https://www.jianshu.com/p/0498a6fa7694)
+4. [Genymotion安装模拟器报错“unable to create virtual device connection timeout occurred”](http://www.voidcn.com/article/p-rokjianw-ku.html)
+
+## 启动
+
+### ios
+1. Xcode->Preferences->locations->Command Line Tools->[select something]
+2. shut down "Simulator" first
+3. Terminal->`proxy`->`react-native run-ios`
+4. wait~~~
+
+### android
+
+## debug
+
+1. [调试](https://reactnative.cn/docs/0.51/debugging.html)
+2. [React Native Debugger + Expo = AWESOME](https://www.gravitywell.co.uk/latest/rd/posts/react-native-debugger-expo-awesome/) 
+3. [Create React Native App + React Native Debugger](https://www.youtube.com/watch?v=JY279kbJ0KM)
+
+
 
 ## 样式
 
