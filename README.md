@@ -12,6 +12,28 @@
 3. [Mac环境下安装Genymotion](https://www.jianshu.com/p/0498a6fa7694)
 4. [Genymotion安装模拟器报错“unable to create virtual device connection timeout occurred”](http://www.voidcn.com/article/p-rokjianw-ku.html)
 
+## jdk
+
+1. [下载安装包](http://www.oracle.com/technetwork/java/javase/overview/index.html)
+1. 移动java到bin中 `sudo ln -s /Library/Java/JavaVirtualMachines/jdk /usr/bin/`
+2. 缷载
+
+```bash
+I was able to unistall jdk 8 in mavericks successfully doing the following steps:
+
+Run this command to just remove the JDK
+
+sudo rm -rf /Library/Java/JavaVirtualMachines/jdk<version>.jdk
+Run these commands if you want to remove plugins
+
+sudo rm -rf /Library/PreferencePanes/JavaControlPanel.prefPane
+sudo rm -rf /Library/Internet\ Plug-Ins/JavaAppletPlugin.plugin
+sudo rm -rf /Library/LaunchAgents/com.oracle.java.Java-Updater.plist
+sudo rm -rf /Library/PrivilegedHelperTools/com.oracle.java.JavaUpdateHelper
+sudo rm -rf /Library/LaunchDaemons/com.oracle.java.Helper-Tool.plist
+sudo rm -rf /Library/Preferences/com.oracle.java.Helper-Tool.plist
+```
+
 ## 启动
 
 ### ios
