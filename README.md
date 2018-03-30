@@ -33,6 +33,8 @@ sudo rm -rf /Library/PrivilegedHelperTools/com.oracle.java.JavaUpdateHelper
 sudo rm -rf /Library/LaunchDaemons/com.oracle.java.Helper-Tool.plist
 sudo rm -rf /Library/Preferences/com.oracle.java.Helper-Tool.plist
 ```
+## 常见问题指引
+1. [Genymotion模拟器引起的Address already in use ADB server didn't ACK](http://blog.csdn.net/m_changgong/article/details/51730664)
 
 ## 启动
 
@@ -89,10 +91,6 @@ const styles = StyleSheet.create({
 AppRegistry.registerComponent('LotsOfStyles', () => LotsOfStyles);
 ```
 
-
-- [listView](http://reactnative.cn/docs/0.41/using-a-listview.html#content)
-- [Navigator](http://reactnative.cn/docs/0.41/using-navigators.html#content)
 - [布局样式属性](http://reactnative.cn/docs/0.41/layout-props.html#content)
 - [React Native style -- 样式的使用](https://segmentfault.com/a/1190000004031633)
 - [在原生和React Native间通信](http://reactnative.cn/docs/0.41/communication-ios.html#content)
-- [TabNavigator](https://github.com/exponent/react-native-tab-navigator)
