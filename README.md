@@ -12,6 +12,12 @@
 3. [Mac环境下安装Genymotion](https://www.jianshu.com/p/0498a6fa7694)
 4. [Genymotion安装模拟器报错“unable to create virtual device connection timeout occurred”](http://www.voidcn.com/article/p-rokjianw-ku.html)
 
+## 架子/实践
+1. [ignite-The hottest CLI](https://github.com/infinitered/ignite)
+2. [30-days-of-react-native](https://github.com/fangwei716/30-days-of-react-native)
+3. [react-native-maps](https://github.com/react-community/react-native-maps)
+4. [react-native-background-geolocation](https://github.com/transistorsoft/react-native-background-geolocation)
+
 ## jdk
 
 1. [下载安装包](http://www.oracle.com/technetwork/java/javase/overview/index.html)
